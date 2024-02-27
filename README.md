@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Daniel! (@danthemango)
-- 💼 I'm a software developer on Vancouver Island
-- 🌱 I'm currently trying to learn about 3D art programming, such as WebGL, OpenGL, and Blender modelling and animation
-- 🎶 If you're able to create some crazy beats in LMMS let me know, I would love to learn more about music creation
+- 👋 Hey, I'm Dan :) (@danthemango)
+- 💼 I'm a software developer on Vancouver Island, mainly web app and API development
+- 🌱 I'm currently focused on 3D-related programming, such as Blender python and Navisworks plugin development
+- 📫 I'm trying to learn more about cloud point data processing, automatic segmentation, and 3D AI tools
 
 <!--
 **danthemango/danthemango** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
